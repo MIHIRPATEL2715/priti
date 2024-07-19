@@ -5,7 +5,7 @@ function Inputtext() {
       <div class="input-group textarea">
         <textarea
           class="form-control textarea"
-          placeholder="Don't think just ask...."
+          placeholder="Don't think just ask....."
           aria-label="With textarea"
         ></textarea>
       </div>
