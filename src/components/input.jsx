@@ -14,7 +14,7 @@ function Inputtext() {
         <input
           type="text"
           class="form-control"
-          placeholder="Enter Text"
+          placeholder="Enter Text Here"
           aria-label="Enter Text Here"
           aria-describedby="button-addon2"
         />
